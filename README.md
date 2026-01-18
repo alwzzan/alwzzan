@@ -1,23 +1,13 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Obaida Al-Wazzan — Software Developer & Engineering Student 💻<br>
+  <br> I'm Obaida Al-Wazzan — Software Developer & Cybersecurity Engineering Student 💻🛡️<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
 
-<h2 align="left">👨‍💻 About Me</h2>
-
-- 🎓 Engineering student with a strong focus on software development  
-- 🧑‍💻 Programmer interested in building practical, efficient solutions  
-- 🏴‍☠️ CTF player with a solid understanding of systems and security concepts  
-- 🤖 Experience working with AI models and automation tools (LoRA, n8n)  
-- ⚡ Hands-on experience with ESP32 and Arduino projects  
-- 🐧 Daily Linux user, mainly Kali Linux  
-- 🔁 I enjoy combining programming, automation, and problem-solving  
-
-<h2 align="left">🛠️ Technologies & Tools</h2>
+<h2 align="left">:hammer_and_wrench: Technologies & Tools</h2>
 
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
@@ -33,13 +23,15 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-<h2 align="left">🚀 What I Like Working On</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
-- Software development and problem solving  
-- Backend and system-level programming  
-- Automation and smart workflows  
-- Embedded systems and hardware integration  
-- Writing clean, readable, and maintainable code  
+- 🎓 Cybersecurity Engineering student with a strong interest in software development  
+- 🧑‍💻 Software developer focused on building clean, reliable, and efficient code  
+- 🏴‍☠️ CTF player with a solid understanding of system and security fundamentals  
+- 🤖 Experience working with AI models and automation tools (LoRA, n8n)  
+- ⚡ Hands-on experience with ESP32 and Arduino projects  
+- 🐧 Linux user, mainly working with Kali Linux  
+- 🔁 Interested in backend development, automation, and system-level programming  
 
 <h2 align="left">📫 Contact</h2>
 
@@ -53,5 +45,5 @@
 </p>
 
 <p align="center">
-  <i>"I focus on building things that actually work."</i>
+  <i>"I build software first, and secure it by design."</i>
 </p>
