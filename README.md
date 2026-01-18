@@ -31,7 +31,7 @@
 - 🤖 Experience working with AI models and automation tools (LoRA, n8n)  
 - ⚡ Hands-on experience with ESP32 and Arduino projects  
 - 🐧 Linux user, mainly working with Kali Linux  
-- 🔁 Interested in backend development, automation, and system-level programming  
+- 🔁 Interested in backend development and ‏Frontend Developer , automation, and system-level programming  
 
 <h2 align="left">📫 Contact</h2>
 
