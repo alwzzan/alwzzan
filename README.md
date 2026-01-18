@@ -1,73 +1,54 @@
 <h2 align="left">
-  <abc>
-    <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-    <br> I'm Obaida Al-Wazzan — Cybersecurity Engineering Student & Programmer 🛡️💻<br>
-    <br>
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Obaida Al-Wazzan — Cybersecurity Engineering Student & Programmer 🛡️💻<br>
+  <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  </abc>
+ </abc>
 </h2>
 
-<h2 align="left">👨‍💻 About Me</h2>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I Use</h2>
+
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/></a>
+</p>
+
+<h2 align="left">👨🏻‍💻 About Me</h2>
 
 - 🎓 Cybersecurity Engineering student  
 - 🧑‍💻 Programmer with strong practical experience  
-- 🏴‍☠️ Active CTF player (Web, Linux, Exploitation basics)  
-- 🤖 Experience in training AI models (LoRA, n8n and similar tools)  
-- ⚡ Strong hands-on experience with ESP32 & Arduino  
-- 🐧 Linux user with deep focus on Kali Linux  
-- 🔐 Interested in offensive security, automation, and smart systems  
+- 🏴‍☠️ Active CTF Player  
+- 🤖 Experience training AI models (LoRA, n8n, and similar tools)  
+- ⚡ Strong experience with ESP32 & Arduino  
+- 🐧 Linux user with focus on Kali Linux  
+- 🔐 Interested in offensive security & automation  
 
-<h2 align="left">🛠️ Technologies & Skills</h2>
+<h2 align="left">🚀 What I Focus On</h2>
 
-<h4>Programming Languages</h4>
+- Cybersecurity & Capture The Flag challenges  
+- Linux & penetration testing environments  
+- Embedded systems and IoT security  
+- AI automation and smart workflows  
 
-- C++  
-- Python  
-- PHP  
-- JavaScript  
-- SQL (MySQL)  
+<h2 align="left">⚡ Fun Fact</h2>
 
-<h4>Web Technologies</h4>
+- I learn security by breaking things… **ethically** 😄  
 
-- HTML  
-- CSS  
-- JavaScript  
-- Node.js  
-- React  
+<h2 align="left">📫 Let's Connect</h2>
 
-<h4>Cybersecurity & Systems</h4>
-
-- Linux (Kali Linux)  
-- CTF challenges  
-- Basic pentesting & security testing  
-- Automation & scripting  
-
-<h4>AI & Automation</h4>
-
-- Training LoRA models  
-- Workflow automation using n8n  
-- AI-assisted development  
-
-<h4>Embedded Systems</h4>
-
-- ESP32  
-- Arduino  
-- Sensors & hardware integration  
-
-<h2 align="left">🚀 What I’m Working On</h2>
-
-- Improving my skills in cybersecurity and CTF competitions  
-- Building secure and smart systems using embedded devices  
-- Combining AI with automation and security  
-- Learning through real projects, not just theory  
-
-<h2 align="left">📫 Connect With Me</h2>
-
-- GitHub: *You are already here 😄*  
-- More links can be added anytime  
-
-<br>
-
-<p align="center">
-  <i>"Learning security by breaking things… responsibly."</i> 🔐
+<p align="left">
+  GitHub: You’re already here 😉  
 </p>
