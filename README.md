@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-  <i>"Build it clean. Make it usable. Secure it by design."</i>
+  <i>"Code that works, systems you can trust"</i>
 </p>
