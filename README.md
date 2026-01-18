@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Obaida Al-Wazzan — Software Developer & Cybersecurity Engineering Student 💻🛡️<br>
+  <br> I'm Obaida Al-Wazzan — Software & Frontend Developer, Cybersecurity Engineering Student 💻🛡️<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -25,13 +25,13 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-- 🎓 Cybersecurity Engineering student with a strong interest in software development  
-- 🧑‍💻 Software developer focused on building clean, reliable, and efficient code  
-- 🏴‍☠️ CTF player with a solid understanding of system and security fundamentals  
-- 🤖 Experience working with AI models and automation tools (LoRA, n8n)  
-- ⚡ Hands-on experience with ESP32 and Arduino projects  
-- 🐧 Linux user, mainly working with Kali Linux  
-- 🔁 Interested in backend development and ‏Frontend Developer , automation, and system-level programming  
+- 🎓 Cybersecurity Engineering student with a strong focus on software development  
+- 🧑‍💻 Software & Frontend Developer building clean, responsive, and maintainable interfaces  
+- 🏴‍☠️ CTF player with solid system and security fundamentals  
+- 🤖 Experience with AI models and automation tools (LoRA, n8n)  
+- ⚡ Hands-on experience with ESP32 and Arduino  
+- 🐧 Linux user (Kali Linux)  
+- 🔁 Interested in backend systems, frontend architecture, and automation  
 
 <h2 align="left">📫 Contact</h2>
 
@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-  <i>"I build software first, and secure it by design."</i>
+  <i>"Build it clean. Make it usable. Secure it by design."</i>
 </p>
